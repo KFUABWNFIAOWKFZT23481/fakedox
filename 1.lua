@@ -225,6 +225,6 @@ Good luck having pipe bombs in your mail]].. playerCountry ..[[ user :D!
 ▐███▌▐█•█▌▐█▄▄▌ ▐█▀·.▐█▄▪▐█▐█▌.▐▌▐█▄█▌██▐█▌██. ██ 
 ·▀▀▀ .▀  ▀ ▀▀▀   ▀ •  ▀▀▀▀  ▀█▄▀▪ ▀▀▀ ▀▀ █▪▀▀▀▀▀• 
 
-]])
+]]
 
 repeat until 69+420 == 69420
